@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/best-shop/static/css/main.254b0a97.css",
+    "main.js": "/best-shop/static/js/main.876c8a86.js",
+    "static/js/787.6b7aeb90.chunk.js": "/best-shop/static/js/787.6b7aeb90.chunk.js",
+    "static/media/best_svg.svg": "/best-shop/static/media/best_svg.a63fcd3c611c980d77b74897eb6b01b0.svg",
+    "static/media/hero.png": "/best-shop/static/media/hero.9b9a684debff695afd0b.png",
+    "static/media/gradient_wave.svg": "/best-shop/static/media/gradient_wave.a23fc06f15a416ee1395a9b005f43f6b.svg",
+    "index.html": "/best-shop/index.html",
+    "main.254b0a97.css.map": "/best-shop/static/css/main.254b0a97.css.map",
+    "main.876c8a86.js.map": "/best-shop/static/js/main.876c8a86.js.map",
+    "787.6b7aeb90.chunk.js.map": "/best-shop/static/js/787.6b7aeb90.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.254b0a97.css",
+    "static/js/main.876c8a86.js"
+  ]
+}
